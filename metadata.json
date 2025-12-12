@@ -1,0 +1,9 @@
+{
+  "name": "Travel Planner Pro",
+  "description": "A collaborative travel planning application with itinerary management, expense tracking, and travel journaling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
